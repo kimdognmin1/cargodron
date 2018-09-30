@@ -4,3 +4,5 @@ Copyright 2007-2017 © Jeff Brown - All Rights Reserved. ZBar
 
 
 OpenCV for Raspberry-Pi(라즈베리파이를 위한 OpenCV)
+
+https://github.com/dltpdn/opencv-for-rpi를 활용하여 Opnecv 설치
