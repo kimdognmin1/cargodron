@@ -78,4 +78,5 @@ chmod +x ./QGroundControl.AppImage
  모든 파일은 OpenCV와 Zbar를 함께 이용하였으며 이미지 및 Video Stream에서 QR코드 인식이 가능합니다.
  
  이미지 파일에 대한 QR코드의 인식을 원하는 경우
+ 
  barcode_scanner_image.py
