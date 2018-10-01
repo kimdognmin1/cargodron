@@ -92,4 +92,6 @@ http://zbar.sourceforge.net를 활용하여 Zbar 설치
 
  barcode_scaonner_video2.py
 
-※ LED의 회로 연결상태에 점등 여부가 달라집니다. LED(2개)
+※ LED의 회로 연결상태에 따라 점등 여부가 달라집니다. LED(2개)의 경우에는 6(GND), 37(GPIO20), 40(GPIO21)를 활용하였고
+
+LED(4개)의 경우에는 6(GND), 32(GPIO12), 36(GPIO16), 37(GPIO20), 40(GPIO21)로 연결하였습니다.
