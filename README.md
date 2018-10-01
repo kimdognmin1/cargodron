@@ -49,7 +49,6 @@ http://zbar.sourceforge.net를 활용하여 Zbar 설치
 
  https://raw.githubusercontent.com/PX4/Devguide/master/build_scripts/ubuntu_sim_common_deps.sh
      
-
 2. 해당 스크립트를 복사하여 ubuntu_sim_common_dep.sh로 저장합니다. 그리고 다음을 사용하여 멤버로 지정합니다.
 
  $ sudo usermod -a -G dialout $USER
@@ -92,3 +91,5 @@ http://zbar.sourceforge.net를 활용하여 Zbar 설치
 ▶ Video Stream에서 QR코드의 인식을 원하는 경우 + LED(4개)를 활용하여 QR코드 인식 여부 확인
 
  barcode_scaonner_video2.py
+
+※ LED의 회로 연결상태에 점등 여부가 달라집니다. LED(2개)
