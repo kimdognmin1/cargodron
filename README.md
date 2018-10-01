@@ -14,7 +14,7 @@ http://zbar.sourceforge.net를 활용하여 Zbar 설치
 
 # 개발환경 구성
 
-1.위의 오픈소스를 활용하였으며 우선 패키지를 업데이트합니다.
+ 1. 위의 오픈소스를 활용하였으며 우선 패키지를 업데이트합니다.
 
  $ sudo apt get update
  $ sudo apt get upgrade
