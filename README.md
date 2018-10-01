@@ -76,6 +76,8 @@ http://zbar.sourceforge.net를 활용하여 Zbar 설치
  
  모든 파일은 OpenCV와 Zbar를 함께 이용할 수 있도록 프로그래밍 하였으며 이미지 및 Video Stream에서 QR코드 인식이 가능합니다.
  
+ 인식된 파일은 barcodes.csv저장됩니다.
+ 
 ▶ 이미지 파일에 대한 QR코드의 인식을 원하는 경우
  
  barcode_scanner_image.py(qrcode.png 파일을 활용하여 인식여부를 확인하면 됩니다.)
